@@ -1,0 +1,3 @@
+Weekly is a simplistic habit tracking app based on credits. Create a habit by choosing the name of the habit, the number of habit "credits" you want, and how often the credits get refilled. Every time you do that certain action, tap it in the list to remove one credit.
+The current project is still under development, mainly to test the interface integrity and logical correctness of the application.
+If you encounter problems during the test, please contact me.
